@@ -1,0 +1,6 @@
+{
+  "name": "KMT Electric",
+  "description": "Friendly, reliable electrical help for your home and business. Licensed electricians in Columbus, OH, specialized in installations, repairs, generators, and EV chargers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
